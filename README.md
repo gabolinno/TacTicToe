@@ -10,7 +10,7 @@ The computer move is calculated by the Minimax algorithm.
 
 # Example Game: 
 
-
+<pre>
 Enter X to be first and O otherwise: X
 Let's begin the game!
 Player 1 (X)(YOU)  -  Player 2 (O)(Computer)
@@ -138,3 +138,4 @@ _____|_____|_____
 -------------------------
 Good game! It was a draw!
 -------------------------
+</pre>
